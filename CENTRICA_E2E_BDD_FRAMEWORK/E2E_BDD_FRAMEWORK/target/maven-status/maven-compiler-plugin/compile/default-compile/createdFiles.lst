@@ -1,0 +1,5 @@
+com\qa\pages\LoginPage.class
+com\qa\driver\DriverFactory.class
+com\qa\utility\ConfigReader.class
+com\qa\utility\CommonUtils.class
+com\qa\pages\ShoppingPage.class

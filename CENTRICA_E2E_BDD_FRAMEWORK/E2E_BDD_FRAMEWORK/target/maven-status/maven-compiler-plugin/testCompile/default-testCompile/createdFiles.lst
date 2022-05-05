@@ -1,0 +1,7 @@
+com\qa\stepDefinition\ProductChekoutStepDef.class
+com\qa\stepDefinition\Login.class
+com\qa\stepDefinition\Shoppingpage.class
+com\qa\runner\TestRunner.class
+com\qa\stepDefinition\BillingStepDef.class
+com\qa\stepDefinition\ShoppingStepDef.class
+com\qa\stepDefinition\Hooks.class
